@@ -6,3 +6,6 @@ for i in range(0,3):
     # i = i + 1
     print(str(i))
 
+print("版本控制测试")
+print("本地版本控制测试") #pycharm git commit操作测试
+print("本地版本控制测试") #pycharm git commit操作测试4
